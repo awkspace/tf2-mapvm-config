@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!/maps
+/maps/*.bsp
+/maps/graphs
+!/cfg
+/cfg/*
+!/cfg/mapcycle.txt
+!/cfg/*.cfg
+!/cfg/sourcemod
+/cfg/host.cfg
+!/cfg/*.sh
+
